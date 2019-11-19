@@ -1,0 +1,14 @@
+C:\WinForm\WinApp\ComponanceLabel\bin\x64\Debug\ComponanceLabel.exe
+C:\WinForm\WinApp\ComponanceLabel\bin\x64\Debug\ComponanceLabel.pdb
+C:\WinForm\WinApp\ComponanceLabel\bin\x64\Debug\BarcodeLib.dll
+C:\WinForm\WinApp\ComponanceLabel\bin\x64\Debug\Dynamsoft.BarcodeReader.dll
+C:\WinForm\WinApp\ComponanceLabel\bin\x64\Debug\touchlesslib.dll
+C:\WinForm\WinApp\ComponanceLabel\bin\x64\Debug\Dynamsoft.BarcodeReader.xml
+C:\WinForm\WinApp\ComponanceLabel\obj\x64\Debug\ComponanceLabel.csprojAssemblyReference.cache
+C:\WinForm\WinApp\ComponanceLabel\obj\x64\Debug\ComponanceLabel.Form1.resources
+C:\WinForm\WinApp\ComponanceLabel\obj\x64\Debug\ComponanceLabel.Properties.Resources.resources
+C:\WinForm\WinApp\ComponanceLabel\obj\x64\Debug\ComponanceLabel.csproj.GenerateResource.cache
+C:\WinForm\WinApp\ComponanceLabel\obj\x64\Debug\ComponanceLabel.csproj.CoreCompileInputs.cache
+C:\WinForm\WinApp\ComponanceLabel\obj\x64\Debug\ComponanceLabel.csproj.CopyComplete
+C:\WinForm\WinApp\ComponanceLabel\obj\x64\Debug\ComponanceLabel.exe
+C:\WinForm\WinApp\ComponanceLabel\obj\x64\Debug\ComponanceLabel.pdb
